@@ -1,7 +1,7 @@
 ---
 title: Rohan Arni
 role: Co-Founder/Vice President
-avatar_filename: avatar
+avatar_filename: profile-1-.png
 bio: "Rohan Arni is a sophomore at High Technology High School. "
 interests:
   - Research

@@ -7,7 +7,7 @@ first_name: Nelson
 last_name: Bighetti
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Professor of Artificial Intelligence
@@ -15,7 +15,7 @@ role: Professor of Artificial Intelligence
 # Organizations/Affiliations
 organizations:
   - name: Stanford University
-    url: ''
+    url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: "mailto:test@example.org"
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

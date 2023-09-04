@@ -3,6 +3,9 @@ title: Rohan Arni
 role: Co-Founder/Vice President
 avatar_filename: profile-1-.png
 bio: "Rohan Arni is a sophomore at High Technology High School. "
+
+superuser: true
+
 interests:
   - Research
   - Physics
@@ -21,4 +24,5 @@ superuser: true
 user_groups:
   - Researchers
 ---
+
 Rohan Arni is a sophomore at High Technology High School. He is a programmer, musician, scientist and writer. He plays the trumpet and the piano. You can find his code on his GitHub, and you can find his writing on his blog.

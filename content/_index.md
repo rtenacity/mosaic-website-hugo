@@ -11,7 +11,7 @@ sections:
         <br>
         <br>
 
-        **The Mosaic** Research Journal has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        **The Mosaic Research Journal** is a research community for students, by students. We focus on promoting scientific experimentation and making innovative research more accessible in the hopes of improving our community and future.
       image:
         filename: the-mosaic.png
 

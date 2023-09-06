@@ -2,7 +2,7 @@
 title: Indus Boddu
 role: Founder/President
 
-bio: "Rohan Arni is a sophomore at High Technology High School. "
+bio: "Indus Boddu is a junior at High Technology High School."
 
 interests:
   - Chemistry

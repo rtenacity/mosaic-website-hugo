@@ -1,14 +1,14 @@
 ---
 title: Indus Boddu
-role: Co-Founder/President
+role: Founder/President
 
 bio: "Rohan Arni is a sophomore at High Technology High School. "
 
 interests:
-  - Research
-  - Physics
-  - AI
-  - Computing
+  - Chemistry
+  - Electronics
+  - Chess
+
 social:
 #   - display:
 #       header: false
@@ -23,4 +23,4 @@ user_groups:
   - Founders
 ---
 
-Rohan Arni is a sophomore at High Technology High School. He is a programmer, musician, scientist and writer. He plays the trumpet and the piano. You can find his code on his GitHub, and you can find his writing on his blog on his website.
+Indus Boddu is a junior at High Technology High School. He founded Mosaic to make publishing research more accessible for students. He loves chemistry and electronics, and plays chess.

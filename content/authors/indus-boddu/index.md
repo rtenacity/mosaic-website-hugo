@@ -4,8 +4,6 @@ role: Co-Founder/President
 
 bio: "Rohan Arni is a sophomore at High Technology High School. "
 
-superuser: false
-
 interests:
   - Research
   - Physics
